@@ -11,7 +11,7 @@ Gradle is cool, but scripts are getting large and repetitive. This is a simple t
 
 | Name           | Version | vsc     | Maven        | Junit 5  | Code Coverage |
 |----------------|---------|---------|--------------|----------|---------------|
-| **java-maven** | v1.0.0  | github  | yes + plugin | included | JaCoCo        |
+| **java-maven** | v1.1.0  | github  | yes + plugin | included | JaCoCo        |
 
 ## Project organization
 
